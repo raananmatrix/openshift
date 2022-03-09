@@ -11,6 +11,6 @@ spec:
     name: hello-world
     resources: {}
     command: ["sleep"]
-    args: 3600000
+    args: [3600000]
   dnsPolicy: ClusterFirst
   restartPolicy: Always
