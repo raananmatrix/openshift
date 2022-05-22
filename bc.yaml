@@ -8,7 +8,7 @@ spec:
   output:
     to:
       kind: ImageStreamTag
-      name: php:latest
+      name: php:aaa
   postCommit: {}
   resources: {}
   runPolicy: Serial
