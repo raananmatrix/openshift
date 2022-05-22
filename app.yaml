@@ -11,6 +11,6 @@ spec:
     command: ["/bin/sh"]
     args:
     - "-c"
-    - "sleep 36000000"
+    - "aaaasdf"
   dnsPolicy: ClusterFirst
   restartPolicy: Always
