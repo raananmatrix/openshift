@@ -24,6 +24,6 @@ spec:
         command: ["/bin/sh"]
         args:
         - "-c"
-        - "asdfaaaaa 100000"
+        - "sleep 100000"
   
   
